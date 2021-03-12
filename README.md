@@ -1,4 +1,4 @@
-<img src="https://www.figma.com/file/GPdwcfqbPal0luxpWv5Wux/Untitled?node-id=1%3A7" alt="Imagem do Create React APP" />
+<img src="https://user-images.githubusercontent.com/71887974/110981381-d4235700-8345-11eb-9d0b-4c5f07a7338d.png" alt="Imagem do Create React APP" />
 
 
 # Create React App
