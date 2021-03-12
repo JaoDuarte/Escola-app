@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/71887974/110979884-f61bda00-8343-11eb-9b65-0208859d038f.png)
+<img src="https://user-images.githubusercontent.com/71887974/110979928-07fd7d00-8344-11eb-8849-82c182dda7b3.png" alt="Imagem do Create React APP" width="500"
 
 
 # Create React App
