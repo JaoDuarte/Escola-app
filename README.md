@@ -1,4 +1,4 @@
-# React App
+# Create React App
 
 Esse projeto foi criado com **Create React APP**. O create-react-app é um conjunto de ferramentas e funcionalidades pré-configuradas para que você possa iniciar um projeto React.
 ... Isso economiza seu tempo e facilita na criação de novos app em React.
