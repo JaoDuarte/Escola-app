@@ -27,7 +27,9 @@ Caso você não tenha instalado recomendo esse tutorial - [Como instalar o **nod
 # O meu Wireframe
 Caso você nao saiba para que server wireframe, o wireframe é um desenho básico, um esboço, um esqueleto, uma maquete eletrônica com especificações do produto ou serviço que será criado, exemplo é o meu **Wireframe**.
 
-<img src="https://www.sp.senai.br/img/logo-senai1.png" alt="logo Senai"/>
+
+
+<img src="https://www.sp.senai.br/img/logo-senai1.png" alt="logo Senai" width="200"/>
 
 
 
