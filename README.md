@@ -29,7 +29,7 @@ Caso você nao saiba para que server wireframe, o wireframe é um desenho básic
 
 
 
-<img src="https://www.sp.senai.br/img/logo-senai1.png" alt="logo Senai" width="200"/>
+<img src="https://www.sp.senai.br/img/logo-senai1.png" alt="logo Senai" width="700"/>
 
 
 
