@@ -25,7 +25,7 @@ Caso você não tenha instalado recomendo esse tutorial - [Como instalar o **nod
 <img src="https://sinergiaengenharia.com.br/wp-content/uploads/2019/01/educacao-ambiental-sinergia-engenharia-de-meio-ambiente.png" alt="Educação Ambiental" width="200"/>
 
 # O meu Wireframe
-Caso você nao saiba para que server wireframe, o wireframe é um desenho básico, um esboço, um esqueleto, uma maquete eletrônica com especificações do produto ou serviço que será criado, exemplo é o meu **Wireframe** ![**Wireframe**](https://github.com/JaoDuarte/Escola-app/blob/main/Wireframe.PNG).
+Caso você nao saiba para que serve wireframe, o wireframe é um desenho básico, um esboço, um esqueleto, uma maquete eletrônica com especificações do produto ou serviço que será criado, exemplo esse é o meu **Wireframe** ![**Wireframe**](https://github.com/JaoDuarte/Escola-app/blob/main/Wireframe.PNG).
 
 
 .
