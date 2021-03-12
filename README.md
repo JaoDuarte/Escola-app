@@ -24,6 +24,6 @@ Caso você não tenha instalado recomendo esse tutorial - [Como instalar o **nod
 #### [EDUCAÇÃO AMBIENTAL](https://suicobrasileira.sp.senai.br/curso/78391/115/competencia-transversal-educacao-ambiental)
 <img src="https://sinergiaengenharia.com.br/wp-content/uploads/2019/01/educacao-ambiental-sinergia-engenharia-de-meio-ambiente.png" alt="Educação Ambiental" width="200"/>
 
-<p align="center"> ## O meu Wireframe </p>
+# O meu Wireframe
 
-<img src="https://user-images.githubusercontent.com/71887974/110981761-64fa3280-8346-11eb-85f3-56eff3a349a4.PNG" alt="Wireframe do projeto" width="400"/>
+<img src="https://user-images.githubusercontent.com/71887974/110981761-64fa3280-8346-11eb-85f3-56eff3a349a4.PNG" alt="Wireframe do projeto" width="600"/>
