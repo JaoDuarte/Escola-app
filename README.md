@@ -19,3 +19,4 @@ Caso você não tenha instalado recomendo esse tutorial - [Como instalar o **nod
 <img src="https://cdn4.ecycle.com.br/cache/images/2020-07/50-650-economia-circular-pb.jpg" alt="Economia circular" width="200"/>
 
 ### [EDUCAÇÃO AMBIENTAL](https://suicobrasileira.sp.senai.br/curso/78391/115/competencia-transversal-educacao-ambiental)
+<img src="https://sinergiaengenharia.com.br/wp-content/uploads/2019/01/educacao-ambiental-sinergia-engenharia-de-meio-ambiente.png" alt="Educação Ambiental" width="200"/>
