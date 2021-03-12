@@ -26,4 +26,4 @@ Caso você não tenha instalado recomendo esse tutorial - [Como instalar o **nod
 
 
 ## O meu Wireframe
-<img src="https://user-images.githubusercontent.com/71887974/110981761-64fa3280-8346-11eb-85f3-56eff3a349a4.PNG" alt="Wireframe do projeto" width="400"
+<img src="https://user-images.githubusercontent.com/71887974/110981761-64fa3280-8346-11eb-85f3-56eff3a349a4.PNG" alt="Wireframe do projeto" width="400"/>
