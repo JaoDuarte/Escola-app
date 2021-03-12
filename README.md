@@ -17,5 +17,5 @@ Caso você não tenha instalado recomendo esse tutorial - [Como instalar o **nod
 ### [EDUCAÇÃO AMBIENTAL](https://suicobrasileira.sp.senai.br/curso/78391/115/competencia-transversal-educacao-ambiental)
 
 
-![](https://s2.glbimg.com/caJWl-XvrSgaNHs43wCc4VflPH0=/0x0:620x336/984x0/smart/filters:strip_icc()/s.glbimg.com/po/tt2/f/original/2018/05/24/excel-excel-kommentare-drucken-excel-vba-function-mehrere-rckgabewerte.jpg = 100x100)
+![](https://s2.glbimg.com/caJWl-XvrSgaNHs43wCc4VflPH0=/0x0:620x336/984x0/smart/filters:strip_icc()/s.glbimg.com/po/tt2/f/original/2018/05/24/excel-excel-kommentare-drucken-excel-vba-function-mehrere-rckgabewerte.jpg =100x100)
 [](https://cdn4.ecycle.com.br/cache/images/2020-07/50-650-economia-circular-pb.jpg)
