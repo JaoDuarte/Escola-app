@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/71887974/110979884-f61bda00-8343-11eb-9b65-0208859d038f.png)
+
+
 # Create React App
 
 Esse projeto foi criado com **Create React APP**. O create-react-app é um conjunto de ferramentas e funcionalidades pré-configuradas para que você possa iniciar um projeto React... Isso economiza seu tempo e facilita na criação de novos app em React.
