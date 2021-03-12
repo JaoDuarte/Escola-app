@@ -4,7 +4,7 @@ Esse projeto foi criado com **Create React APP**. O create-react-app é um conju
 
 ## Como eu criei um?
 
-é bem simples na verdade, caso você ja tenha instalado ele no CMD basta apenas ir ao local em que você quer criar a pasta ou seu app, no meu caso foi no disco local C mesmo , em seguinte você digita ``` C:\> create-react-app ``` em frente a isso já vai ser o nome da pasta ``` C:\> create-react-app nome-da-pasta ``` .
+é bem simples na verdade, caso você ja tenha instalado ele no CMD basta apenas ir ao local em que você quer criar a pasta ou seu app, no meu caso foi no disco local C mesmo , em seguinte você digita ``` C:\> create-react-app                ``` em frente a isso já vai ser o nome da pasta ``` C:\> create-react-app nome-da-pasta                   ``` .
 
 Caso você não tenha instalado recomendo esse tutorial - [Como instalar o **node.js npm** e o **React** no Windows](https://www.devmedia.com.br/como-instalar-o-node-js-npm-e-o-react-no-windows/40329).
 
@@ -18,4 +18,4 @@ Caso você não tenha instalado recomendo esse tutorial - [Como instalar o **nod
 
 
 ![](https://s2.glbimg.com/caJWl-XvrSgaNHs43wCc4VflPH0=/0x0:620x336/984x0/smart/filters:strip_icc()/s.glbimg.com/po/tt2/f/original/2018/05/24/excel-excel-kommentare-drucken-excel-vba-function-mehrere-rckgabewerte.jpg)
-"[](https://cdn4.ecycle.com.br/cache/images/2020-07/50-650-economia-circular-pb.jpg)
+[](https://cdn4.ecycle.com.br/cache/images/2020-07/50-650-economia-circular-pb.jpg)
