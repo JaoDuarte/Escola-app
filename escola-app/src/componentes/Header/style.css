@@ -1,0 +1,23 @@
+header{
+    background-color: rgb(24, 24, 24);
+    height: 60px;
+    color: rgb(233, 233, 233);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+img{
+    width: 140px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    right: 300px;
+}
+.txtheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 60px;
+}

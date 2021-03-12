@@ -1,0 +1,16 @@
+.card-container{
+    border: 1px solid #242424;
+    border-radius: 4px;
+    width: 300px;
+    height: 400px;
+    background-color: rgb(218, 228, 255);
+    margin: 10px;
+    padding: 10px;
+    color: rgb(20, 20, 20);
+}
+.ea{
+    position: relative;
+    right: 1px;
+    width: 300px;
+    height: 280px;
+}
